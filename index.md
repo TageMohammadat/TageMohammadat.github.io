@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resume
+title: Tage Mohammadat
 ---
 
 Sr R&D Engineer, Embedded System Consultancy
