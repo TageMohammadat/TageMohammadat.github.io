@@ -2,7 +2,7 @@
 layout: default
 title: Resume
 ---
-
+Sr Embedded Engineer, R&D @ Embedded System Consultancy Stockholm Ltd.
 ---
 ## EXPERIENCE
 ---
@@ -21,7 +21,7 @@ title: Resume
 
 ### KTH Royal Institute of Technology and Universiti Teknologi Petronas
 
-*** Research & Teaching Assistant/ Doctoral Researcher, (Jan. 2010 - May 2013/Sep. 2015 – 2021)*** &middot;	***Part-time***
+*** Research & Teaching Assistant/ Doctoral Researcher, (Jan. 2010 - May 2013/Sep. 2015 – 2021)*** &middot;
 
 * Researcher in 5 EU and national research projects related to embedded systems development.
 * Teaching assistant for several courses in MSc program on Embedded Systems at KTH.
