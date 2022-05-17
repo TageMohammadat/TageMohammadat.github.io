@@ -93,7 +93,7 @@ I developed test suites with over 1500 test cases using Microsoft test managemen
 
 **Jan. 2010 – Jan. 2012**	&middot; **Resistive Open Faults Analysis in Low-power Digital Integrated Circuits**
 
-I researched in the impact of specific class of manufacturing faults called resistive opens in interconnects and vias of electronic integrated circuits that uses Dynamic Voltage and Frequency Scaling. I developed a model for the fault behaviour and analysed its impact on testing.
+I researched the impact of specific class of manufacturing faults called resistive opens in interconnects and vias of electronic integrated circuits that uses Dynamic Voltage and Frequency Scaling. I developed a model for the fault behaviour and analysed its impact on testing.
 
 **May. 2013 – Jan. 2014**	&middot; **Design Specification for single phase energy meter for national utility company**
 
