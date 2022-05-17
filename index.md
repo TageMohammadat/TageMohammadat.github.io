@@ -93,8 +93,9 @@ I developed test suites with over 1500 test cases using Microsoft Test Managemen
 I researched in the impact of specific class of manufacturing faults called resistive opens in interconnects and vias of electronic integrated circuits that uses Dynamic Voltage and Frequency Scaling. I developed a model for the fault behaviour and analysed its impact on testing.
 
 * **May. 2013 – Jan. 2014	Design Specification for single phase energy meter for national utility company**
-- Researching and developing new diagnosis and repair methods of faulty energy meters to significantly enhance (80%) the recovery of energy meters at the country-level and saving thousands of hard currency monthly.
-- Researching and developing a new 240-VAC energy metering solution. The work yielded a product passing international standards and at the initial stages of mass manufacturing. The significance of the work is the first success for developing a product from scratch of this kind locally.
+
+ Researching and developing new diagnosis and repair methods of faulty energy meters to significantly enhance (80%) the recovery of energy meters at the country-level and saving thousands of hard currency monthly.
+ Researching and developing a new 240-VAC energy metering solution. The work yielded a product passing international standards and at the initial stages of mass manufacturing. The significance of the work is the first success for developing a product from scratch of this kind locally.
 
 * **Jan. 2008 – Jun. 2008	Robotic Design for Asia-Pacific College Robot Contest, (Theme: गोपाल/Govinda)**
 
