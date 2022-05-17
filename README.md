@@ -1,9 +1,4 @@
 ---
-# Tage Mohammadat
----
-**Sr R&D Embedded/Electronics Engineer**
-
----
 ## EXPERIENCE
 ---
 
