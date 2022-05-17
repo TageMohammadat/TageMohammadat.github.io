@@ -68,20 +68,20 @@ R&D in reference architectures, design tools for low-power mixed criticality ada
 		
 **Nov. 2017 – 2020**	&middot; **National project: CORRECT by construction design methodology**
 
-Researching correct-by-construction design methodology for future avionics applications.	
+I researched correct-by-construction design methodology for future avionics applications.	
 		
 **Jan. 2016 – Dec. 2018**	&middot; **Scalable Multi-Processor System-on-Chip Platform over Ethernet**
 
-Developing Zynq-7000 MPSoC based fog computing node with emphasis on dynamic service reallocation, and process off-loading on the FPGA fabric using network-on-chip communication.
+I developed a Zynq-7000 MPSoC based fog computing node with emphasis on dynamic service reallocation, and process off-loading on the FPGA fabric using network-on-chip communication.
 
 **Jan. 2015 – Jun. 2016**	&middot; **Single Event Upset Detector Experiment for KTH MiST Satellite Project**
 
-The project aims to demonstrate a proof of concept for a low-cost computer system suitable for low-earth orbit space applications by using self-healing and fault-tolerance design techniques. I designed several intellectual property blocks in VHDL using Vivado design suite necessary for the operation of the system.
+The project aimed to demonstrate a proof of concept for a low-cost computer system suitable for low-earth orbit space applications by using self-healing and fault-tolerance design techniques. I designed several intellectual property blocks in VHDL using Vivado design suite necessary for the operation of the system.
 
 
 **Feb. 2014 – Aug. 2014**	&middot; **Firmware Development for VHF Radio Transceiver**
 
-I was responsible for the embedded software design using Hybrid of TI-RTOS and IAR VisualState to create a low size scalable and Real-Time system on A9 core of the TI OMAP-L138 for VHF Radio Transceivers.
+I was responsible for the embedded software design using Hybrid of TI-RTOS and IAR VisualState to create a low size scalable and real-time system on A9 core of the TI OMAP-L138 for VHF Radio Transceivers.
 
 **Sep. 2012 – May 2013**	&middot; **MEMS Accelerometer Design for Hydrocarbon Microctremor Analaysis**
 
@@ -97,8 +97,8 @@ I researched in the impact of specific class of manufacturing faults called resi
 
 **May. 2013 – Jan. 2014**	&middot; **Design Specification for single phase energy meter for national utility company**
 
-Researching and developing new diagnosis and repair methods of faulty energy meters to significantly enhance (80%) the recovery of energy meters at the country-level and saving thousands of hard currency monthly.
-Researching and developing a new 240-VAC energy metering solution. The work yielded a product passing international standards and at the initial stages of mass manufacturing. The significance of the work is the first success for developing a product from scratch of this kind locally.
+I researched and developed new diagnosis and repair methods of faulty energy meters to significantly enhance (80%) the recovery of energy meters at the country-level and saving thousands of hard currency monthly.
+I researched and developed a new 240-VAC energy metering solution. The work yielded a product passing international standards and at the initial stages of mass manufacturing. The significance of the work is the first success for developing a product from scratch of this kind locally.
 
 **Jan. 2008 – Jun. 2008**	&middot; **Robotic Design for Asia-Pacific College Robot Contest, (Theme: गोपाल/Govinda)**
 
