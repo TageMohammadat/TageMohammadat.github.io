@@ -2,7 +2,7 @@
 layout: default
 title: Resume
 ---
-Sr R&D Embedded Engineer, Embedded System Consultancy Sweden
+Sr R&D Embedded Engineer, Embedded System Consultancy
 ---
 ## EXPERIENCE
 ---
