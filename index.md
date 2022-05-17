@@ -5,6 +5,8 @@ title: Resume
 
 Sr R&D Engineer, Embedded System Consultancy
 
+Based in Stockholm, Sweden
+
 ---
 ## EXPERIENCE
 ---
@@ -36,13 +38,13 @@ Sr R&D Engineer, Embedded System Consultancy
 ---
 ## EDUCATION
 ---
-### Universiti Teknologi Petronas  
+### Universiti Teknologi Petronas, Malaysia  
 *Bachelor of Electrical and Electronic Engineering (Graduated 2010)*
 **1st Class** (top 5%). 
 Recipient of several Dean's List awards.
 Track: Instrumentation, Control and Computer Systems.
 
-### KTH Royal Institute of Technology
+### KTH Royal Institute of Technology, Sweden
 *Master of Science in System-on-Chip Design (Graduated 2017)*
 Track: ASIC/SoC Design and Embedded Systems.
 
@@ -89,25 +91,25 @@ I investigated a low noise single axis accelerometer design with the objective o
 
 **Apr. 2012 – Jun. 2012**	&middot; **Test Automation for User Interfaces of Commercial Web and Desktop Applications**
 
-I developed test suites with over 1500 test cases using Microsoft test management and implemented the work using Microsoft Visual Studio with C# and ‘White’ Libraries.
+I developed test suites with over 1500 test cases using Microsoft test management and implemented the work using Microsoft visual studio with C# and ‘White’ libraries.
 
 **Jan. 2010 – Jan. 2012**	&middot; **Resistive Open Faults Analysis in Low-power Digital Integrated Circuits**
 
-I researched the impact of specific class of manufacturing faults called resistive opens in interconnects and vias of electronic integrated circuits that uses Dynamic Voltage and Frequency Scaling. I developed a model for the fault behaviour and analysed its impact on testing.
+I researched the impact of specific class of manufacturing faults called resistive opens in interconnects and vias of electronic integrated circuits that use dynamic voltage and frequency scaling. I developed a model for the fault behaviour and analysed its impact on testing.
 
 **May. 2013 – Jan. 2014**	&middot; **Design Specification for single phase energy meter for national utility company**
 
-I researched and developed new diagnosis and repair methods of faulty energy meters to significantly enhance (80%) the recovery of energy meters at the country-level and saving thousands of hard currency monthly.
+I researched and developed new diagnosis and repair methods of faulty energy meters to significantly enhance (80%) the recovery of energy meters at the country-level and saving thousands of hard currency monthly (Sudan).
 I researched and developed a new 240-VAC energy metering solution. The work yielded a product passing international standards and at the initial stages of mass manufacturing. The significance of the work is the first success for developing a product from scratch of this kind locally.
 
 **Jan. 2008 – Jun. 2008**	&middot; **Robotic Design for Asia-Pacific College Robot Contest, (Theme: गोपाल/Govinda)**
 
-I was a team lead of the electronic design and programming for one of the university’s robotic contest. The university team won prizes for the design in the national competition in Malaysia.
+I was a team lead of the electronic design and programming for one of the university’s robotic contest (Petronas university). My university team won prizes for the design in the national competition in Malaysia.
 
 <br />
   
 ---
 ## SKILLS  
 ---
-* **Languages:** Embedded C/C#, Bash/Tcl/Perl Scripting, Verilog/VHDL
+* **Computer Languages:** Embedded C/C#, Bash/Tcl/Perl Scripting, Verilog/VHDL
 * **Tools** IP-based Design for AMD(Xilinx), Intel and Microsemi CPLD/FPGA/ASIC, Vivado/Quartus, Digital/Analog/Mixed Signal IC design, Synopsis/Siemens(Mentor)/Cadence SoC tools. Altium/Eagle Board-level Design. Firmware and device driver development. RTOS kernel, Linux OS.
