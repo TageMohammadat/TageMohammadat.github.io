@@ -1,0 +1,23 @@
+title: Tage Mohammadat
+description: Sr Embedded Engineer, R&D @ Embedded System Consultancy Stockholm Ltd.
+baseurl: "/"
+url: ""
+photo_url: "my-photo.jpg"
+
+# This is an optional section
+# You can skip filling in one or more of the items in this section
+email: "Tage.Mohammadat@ieee.org"
+linkedin: "http://linkedin.com/in/tage-mohammadat"
+github: "https://github.com/TageMohammadat"
+website: "http://TageMohammadat.github.io/"
+ACM: "https://member.acm.org/~tagem"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
