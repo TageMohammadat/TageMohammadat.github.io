@@ -2,7 +2,9 @@
 layout: default
 title: Resume
 ---
+
 Sr R&D Engineer, Embedded System Consultancy
+
 ---
 ## EXPERIENCE
 ---
