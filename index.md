@@ -53,7 +53,7 @@ Track: ASIC/SoC Design and Embedded Systems.
 ---
 * Swedish Institute Study Scholarship for M.Sc. studies at KTH, Sweden, 2014
 * Petronas Study Scholarship for my B.Eng. study at UTP, Malaysia, 2006
-* Among top 50 out of 100’000 examinees in Sudanese Secondary School Examination, Sudan, 2004
+* Among top 50 out of 100’000+ examinees in Sudanese Secondary School Examination, Sudan, 2004
 
 <br />
 
@@ -72,14 +72,15 @@ Researching correct-by-construction design methodology for future avionics appli
 		
 **Jan. 2016 – Dec. 2018**	&middot; **Scalable Multi-Processor System-on-Chip Platform over Ethernet**
 
-Thesis work developing Zynq-7000 MPSoC based fog computing node with emphasis on dynamic service reallocation, and process off-loading on the FPGA fabric using Network-on-Chip communication.
+Developing Zynq-7000 MPSoC based fog computing node with emphasis on dynamic service reallocation, and process off-loading on the FPGA fabric using network-on-chip communication.
 
 **Jan. 2015 – Jun. 2016**	&middot; **Single Event Upset Detector Experiment for KTH MiST Satellite Project**
 
-The project aims to demonstrate a proof of concept for a low-cost computer system suitable for low-earth orbit space applications by using self-healing and fault-tolerance design techniques. I designed Several Intellectual Property blocks in VHDL using Vivado Design Suite necessary for the operation of the system.
+The project aims to demonstrate a proof of concept for a low-cost computer system suitable for low-earth orbit space applications by using self-healing and fault-tolerance design techniques. I designed several intellectual property blocks in VHDL using Vivado design suite necessary for the operation of the system.
 
 
 **Feb. 2014 – Aug. 2014**	&middot; **Firmware Development for VHF Radio Transceiver**
+
 I was responsible for the embedded software design using Hybrid of TI-RTOS and IAR VisualState to create a low size scalable and Real-Time system on A9 core of the TI OMAP-L138 for VHF Radio Transceivers.
 
 **Sep. 2012 – May 2013**	&middot; **MEMS Accelerometer Design for Hydrocarbon Microctremor Analaysis**
@@ -88,7 +89,7 @@ I investigated a low noise single axis accelerometer design with the objective o
 
 **Apr. 2012 – Jun. 2012**	&middot; **Test Automation for User Interfaces of Commercial Web and Desktop Applications**
 
-I developed test suites with over 1500 test cases using Microsoft Test Management and implemented the work using Microsoft Visual Studio with C# and ‘White’ Libraries.
+I developed test suites with over 1500 test cases using Microsoft test management and implemented the work using Microsoft Visual Studio with C# and ‘White’ Libraries.
 
 **Jan. 2010 – Jan. 2012**	&middot; **Resistive Open Faults Analysis in Low-power Digital Integrated Circuits**
 
