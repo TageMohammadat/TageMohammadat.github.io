@@ -23,7 +23,7 @@ Sr R&D Engineer, Embedded System Consultancy
 
 ### KTH Royal Institute of Technology and Universiti Teknologi Petronas
 
-***Research & Teaching Assistant/ Doctoral Researcher, (Jan. 2010 - May 2013/Sep. 2015 – 2021)*** &middot;
+***Research & Teaching Assistant/ Doctoral Researcher, (Jan. 2010 - May 2013/Sep. 2015 – 2021)***
 
 * Researching in 5 EU and national research projects related to embedded systems development.
 * Teaching in several courses in MSc program on Embedded Systems at KTH.
@@ -61,45 +61,45 @@ Track: ASIC/SoC Design and Embedded Systems.
 ## R&D PROJECTS
 ---
 
-**Jan. 2016 – Dec. 2019	EU projects: Safepower, EU FP7 EMC2 , Contrex, ITEA3 Panorama**
+**Jan. 2016 – Dec. 2019**	&middot; **EU projects: Safepower, EU FP7 EMC2 , Contrex, ITEA3 Panorama**
 
 EU-level projects with 5-100 academic & industrial partners. 
 R&D in reference architectures, design tools for low-power mixed criticality adaptable embedded systems applied in for railway, automotive and avionics industries.	
 		
-**Nov. 2017 – 2020	National project: CORRECT by construction design methodology**
+**Nov. 2017 – 2020**	&middot; **National project: CORRECT by construction design methodology**
 
 Researching correct-by-construction design methodology for future avionics applications.	
 		
-**Jan. 2016 – Dec. 2018	Scalable Multi-Processor System-on-Chip Platform over Ethernet**
+**Jan. 2016 – Dec. 2018**	&middot; **Scalable Multi-Processor System-on-Chip Platform over Ethernet**
 
 Thesis work developing Zynq-7000 MPSoC based fog computing node with emphasis on dynamic service reallocation, and process off-loading on the FPGA fabric using Network-on-Chip communication.
 
-**Jan. 2015 – Jun. 2016	Single Event Upset Detector Experiment for KTH MiST Satellite Project**
+**Jan. 2015 – Jun. 2016**	&middot; **Single Event Upset Detector Experiment for KTH MiST Satellite Project**
 
 The project aims to demonstrate a proof of concept for a low-cost computer system suitable for low-earth orbit space applications by using self-healing and fault-tolerance design techniques. I designed Several Intellectual Property blocks in VHDL using Vivado Design Suite necessary for the operation of the system.
 
 
-**Feb. 2014 – Aug. 2014	Firmware Development for VHF Radio Transceiver**
+**Feb. 2014 – Aug. 2014**	&middot; **Firmware Development for VHF Radio Transceiver**
 I was responsible for the embedded software design using Hybrid of TI-RTOS and IAR VisualState to create a low size scalable and Real-Time system on A9 core of the TI OMAP-L138 for VHF Radio Transceivers.
 
-**Sep. 2012 – May 2013	MEMS Accelerometer Design for Hydrocarbon Microctremor Analaysis**
+**Sep. 2012 – May 2013**	&middot; **MEMS Accelerometer Design for Hydrocarbon Microctremor Analaysis**
 
 I investigated a low noise single axis accelerometer design with the objective of maximizing its sensitivity to low frequency (0.1-100Hz) micro-tremor signals believed to correlate to hydrocarbon reserves. The work ended by providing initial architecture and design parameters.
 
-**Apr. 2012 – Jun. 2012	Test Automation for User Interfaces of Commercial Web and Desktop Applications**
+**Apr. 2012 – Jun. 2012**	&middot; **Test Automation for User Interfaces of Commercial Web and Desktop Applications**
 
 I developed test suites with over 1500 test cases using Microsoft Test Management and implemented the work using Microsoft Visual Studio with C# and ‘White’ Libraries.
 
-**Jan. 2010 – Jan. 2012	Resistive Open Faults Analysis in Low-power Digital Integrated Circuits**
+**Jan. 2010 – Jan. 2012**	&middot; **Resistive Open Faults Analysis in Low-power Digital Integrated Circuits**
 
 I researched in the impact of specific class of manufacturing faults called resistive opens in interconnects and vias of electronic integrated circuits that uses Dynamic Voltage and Frequency Scaling. I developed a model for the fault behaviour and analysed its impact on testing.
 
-**May. 2013 – Jan. 2014	Design Specification for single phase energy meter for national utility company**
+**May. 2013 – Jan. 2014**	&middot; **Design Specification for single phase energy meter for national utility company**
 
 Researching and developing new diagnosis and repair methods of faulty energy meters to significantly enhance (80%) the recovery of energy meters at the country-level and saving thousands of hard currency monthly.
 Researching and developing a new 240-VAC energy metering solution. The work yielded a product passing international standards and at the initial stages of mass manufacturing. The significance of the work is the first success for developing a product from scratch of this kind locally.
 
-**Jan. 2008 – Jun. 2008	Robotic Design for Asia-Pacific College Robot Contest, (Theme: गोपाल/Govinda)**
+**Jan. 2008 – Jun. 2008**	&middot; **Robotic Design for Asia-Pacific College Robot Contest, (Theme: गोपाल/Govinda)**
 
 I was a team lead of the electronic design and programming for one of the university’s robotic contest. The university team won prizes for the design in the national competition in Malaysia.
 
