@@ -31,7 +31,7 @@ Based in Stockholm, Sweden
 * Teaching in several courses in MSc program on Embedded Systems at KTH.
 * Investigating design alternatives of MEMS accelerometer for hydrocarbon micro-tremor analysis.
 * Researching on faults modelling and testing of low power VLSI designs.
-* Administrating in labs and tutorials of Digital Design, Microprocessors and Embedded Systems
+* Administrating in labs and tutorials of Digital Design, Microprocessors and Embedded Systems.
 
 <br />
 
@@ -39,13 +39,13 @@ Based in Stockholm, Sweden
 ## EDUCATION
 ---
 ### Universiti Teknologi Petronas, Malaysia  
-*Bachelor of Electrical and Electronic Engineering (Graduated 2010)*
+*Bachelor of Electrical and Electronic Engineering (Graduated 2010)* .
 **1st Class** (top 5%). 
 Recipient of several Dean's List awards.
 Track: Instrumentation, Control and Computer Systems.
 
 ### KTH Royal Institute of Technology, Sweden
-*Master of Science in System-on-Chip Design (Graduated 2017)*
+*Master of Science in System-on-Chip Design (Graduated 2017)* .
 Track: ASIC/SoC Design and Embedded Systems.
 
 <br />
@@ -111,5 +111,5 @@ I was a team lead of the electronic design and programming for one of the univer
 ---
 ## SKILLS  
 ---
-* **Computer Languages:** Embedded C/C#, Bash/Tcl/Perl Scripting, Verilog/VHDL
+* **Computer Languages:** Embedded C/C#, Bash/Tcl/Perl Scripting, Verilog/VHDL.
 * **Tools** IP-based Design for AMD(Xilinx), Intel and Microsemi CPLD/FPGA/ASIC, Vivado/Quartus, Digital/Analog/Mixed Signal IC design, Synopsis/Siemens(Mentor)/Cadence SoC tools. Altium/Eagle Board-level Design. Firmware and device driver development. RTOS kernel, Linux OS.
